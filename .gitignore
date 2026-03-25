@@ -1,0 +1,12 @@
+# Fichier PPTX généré (artefact de build)
+Nodi_Groupe1_Formation_IA.pptx
+
+# Bytecode Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environnements virtuels
+venv/
+.venv/
+env/
