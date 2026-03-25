@@ -750,4 +750,50 @@ NODI (voix émue, fière) :
 [Bouton animé grand :]
 „🏆 Земи го твојот значки!"
 
+Activité interactive (après la vidéo)
+„Помогни му на Нodi да те научи!"
+(Aide Nodi à t'apprendre !)
+
+Scénario :
+L'élève choisit une matière (maths / histoire / langues)
+Nodi pose 3 questions adaptées
+Pour chaque mauvaise réponse : Nodi explique avec une analogie visuelle simple
+Score final + message personnalisé de Nodi
+QCM post-activité (4 questions) :
+
+Кое е ТОЧНОТО користење на ВИ при учење?
+
+A) Да ги препише домашните ❌
+B) Да разбереш нешто потешко ✅
+C) Да полага испит наместо тебе ❌
+D) Да ги измисли одговорите ❌
+Зошто не треба да и ги давaш личните информации на ВИ?
+
+A) Затоа што не е паметна ❌
+B) Затоа што не разбира ❌
+C) Затоа што треба да ги чуваш приватно ✅
+D) Затоа што ги заборава ❌
+Што значи "персонализирано учење"?
+
+A) Сите добиваат исти прашања ❌
+B) ВИ се прилагодува на твоето ниво ✅
+C) Учиш само математика ❌
+D) ВИ учи наместо тебе ❌
+ВИ е најслична на:
+
+A) Магија ❌
+B) Суперхерој ❌
+C) Алатка (молив, калкулатор) ✅
+D) Робот кој мисли сам ❌
+
+
+Récap complet Groupe 1 — version finale ✅
+Module	Titre MK	Concept	Durée
+1	Нodi се буди	C'est quoi l'IA ?	2:30
+2	Нodi е гладен	Les données	2:45
+3	Нodi сортира	Classification	3:00
+4	Нodi полага испит	Train vs Test	2:45
+5	Нodi греши	Erreurs / confiance	3:00
+6 ✨	Нodi е мој асистент!	IA utile au quotidien	3:30
+Total vidéos			≈ 17:30
 
